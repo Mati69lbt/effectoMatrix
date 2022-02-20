@@ -2,4 +2,4 @@
 
 Un pequeño proyecto para progresar...
 
-![Matrix](gif\ezgif.com-gif-maker.gif)
+![Matrix](.\gif\ezgif.com-gif-maker.gif)
